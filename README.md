@@ -6,7 +6,7 @@ See http://www.cafjs.com
 
 ## CAF RPI ZX
 
-This library access a ZX infrared sensor using a RPi.
+A library to access a ZX infrared sensor using an RPi.
 
 It runs in the device not in the cloud.
 
@@ -41,4 +41,4 @@ It runs in the device not in the cloud.
             ]
     }
 
-where `deviceZX` and `deviceAddress` are associated with the i2c interface that the ZX sensor exposes.
+where `deviceZX` and `deviceAddress` are associated with the ZX sensor i2c interface.
