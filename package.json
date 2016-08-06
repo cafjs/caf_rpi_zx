@@ -1,0 +1,26 @@
+{
+    "name": "caf_rpi_zx",
+    "description": "Cloud Assistant library to access a ZX infrared sensor using a RPi.",
+    "version": "0.2.1",
+    "author": "Antonio Lain <antlai@cafjs.com>",
+    "dependencies": {
+        "i2c-bus": "^1.0.2",
+        "caf_iot" : "^0.2.0"
+    },
+    "devDependencies": {
+        "eslint": "3.1.X",
+        "nodeunit" : ">=0.9"
+    },
+    "main": "index",
+    "homepage": "http://www.cafjs.com",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cafjs/caf_rpi_zx.git"
+    },
+    "scripts": {
+        "test": "node ./node_modules/.bin/nodeunit",
+        "eslint" : "./node_modules/.bin/eslint .",
+        "eslintfix" : "./node_modules/.bin/eslint --fix ."
+    },
+    "engines": { "node": ">= 0.10.1 " }
+}
