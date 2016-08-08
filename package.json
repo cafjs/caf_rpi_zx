@@ -1,7 +1,7 @@
 {
     "name": "caf_rpi_zx",
     "description": "Cloud Assistant library to access a ZX infrared sensor using a RPi.",
-    "version": "0.2.5",
+    "version": "0.2.6",
     "author": "Antonio Lain <antlai@cafjs.com>",
     "dependencies": {
         "i2c-bus": "^1.0.2",
