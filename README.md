@@ -1,10 +1,10 @@
-# CAF (Cloud Assistant Framework)
+# Caf.js
 
 Co-design permanent, active, stateful, reliable cloud proxies with your web app or gadget.
 
-See http://www.cafjs.com
+See https://www.cafjs.com
 
-## CAF RPI ZX
+## Raspberry Pi Library  for ZX Sensor
 
 A library to access a ZX infrared sensor using an RPi.
 
